@@ -1,0 +1,12 @@
+.navbar{
+    background-image:linear-gradient(to right,#AB46D2,#EF2F88,#E04DB0);
+}
+#text{
+    color: aliceblue;
+    font-weight: bold;
+    text-align: right;
+}
+.navbar img{
+    width: 80px;
+    height: 40px;
+}
