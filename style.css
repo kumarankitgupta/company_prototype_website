@@ -1,3 +1,6 @@
+body{
+    overflow: hidden;
+}
 .navbar{
     background-image:linear-gradient(to right,#AB46D2,#EF2F88,#E04DB0);
 }
@@ -9,4 +12,9 @@
 .navbar img{
     width: 80px;
     height: 40px;
+}
+#info1{
+    background-image:linear-gradient(to right,#AB46D2,#EF2F88,#E04DB0);
+    position: relative;
+    padding:  0 0 0 0;
 }
